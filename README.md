@@ -61,7 +61,7 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 # 📸 Dashboard Preview
 
-<img width="1919" height="989" alt="Image" src="https://github.com/user-attachments/assets/981c3bd1-06f4-4173-bd0a-90087ffb5058" />
+<img width="1264" height="758" alt="Image" src="https://github.com/user-attachments/assets/759f14a6-8214-4989-83ed-2b1d19f583e0" />
 
 ---
 
