@@ -1,12 +1,12 @@
-🚖 Uber Ride Analytics Dashboard (Power BI)
+# 🚖 Uber Ride Analytics Dashboard (Power BI)
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents an Uber Ride Analytics Dashboard developed using Power BI to analyze ride data and generate meaningful insights. It focuses on key metrics such as revenue, ride volume, cancellations, and customer behavior to support data-driven decision-making.
 
 ---
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Analyze total revenue and ride volume
 - Identify peak booking hours
@@ -16,7 +16,7 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 - Power BI
 - Power Query (Data Cleaning)
@@ -24,7 +24,7 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-📊 Dashboard Features
+# 📊 Dashboard Features
 
 - KPI Cards (Revenue, Rides, Cancellation Rate, Rating)
 - Time-based Revenue Analysis
@@ -35,7 +35,7 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-🔍 Key Findings
+# 🔍 Key Findings
 
 - Peak demand observed during evening hours
 - Certain vehicle types generate higher revenue
@@ -44,14 +44,14 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-⚠ Limitations
+# ⚠ Limitations
 
 - Dataset is static (no real-time data)
 - External factors like traffic and weather are not included
 
 ---
 
-🚀 Future Scope
+# 🚀 Future Scope
 
 - Integration of real-time data
 - Predictive analytics for demand forecasting
@@ -59,13 +59,13 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 
 
 ---
 
-📂 How to Use
+# 📂 How to Use
 
 1. Download the ".pbix" file
 2. Open in Power BI Desktop
@@ -73,12 +73,12 @@ This project presents an Uber Ride Analytics Dashboard developed using Power BI 
 
 ---
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Farzana
 
 ---
 
-⭐ Conclusion
+# ⭐ Conclusion
 
 This project demonstrates how Power BI can transform raw data into actionable insights for better decision-making.
